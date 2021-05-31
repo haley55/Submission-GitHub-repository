@@ -8,8 +8,8 @@
 ## SUBMISSION DEMO VIDEO
 
 Link to YouTube video of you demonstrating your hackathon submission prototype (5 minutes max).
-https://youtu.be/UzKdUW5-4Lc
 
+https://youtu.be/FuZu-ZscyJY
 
 ## DEMO WEBSITE, APP, REPORT, DASHBOARD, NOTEBOOKS, or OTHER
 
