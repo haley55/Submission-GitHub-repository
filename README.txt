@@ -29,8 +29,8 @@ We can find that there are gaps for internet speed over the province and it may 
 Indicate who should use your data product or analysis, and how it can make an impact on solving the challenges of rural connectivity.
 Anyone can use my data and analysis. 
 ### CHALLENGES YOU RAN INTO (2 - 3 sentences)
-Some dataset combination.
+I find it takes a little bit of more time to find right economic dataset and combine different datasets.
 ### ACCOMPLISHMENTS THAT YOU’RE PROUD OF (2 - 3 sentences)
-Got improvement in data analysis with Python. 
+We got improvement in data analysis with Python. 
 ### LESSONS YOU’VE LEARNED (2 - 3 sentences)
-We learned how to use jupyter notebook and python for data analysis and data visuliztion for a real project. 
+We learned how to use jupyter notebook and python for data analysis and data visuliztion for a real data analysis project. 
